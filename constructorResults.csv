@@ -1,0 +1,5929 @@
+constructorId,points,status
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+mclaren,25.0,Finished
+renault,18.0,Finished
+ferrari,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+mclaren,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+red_bull,2.0,Finished
+mercedes,1.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,Finished
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+5 Laps
+virgin,0.0,Suspension
+virgin,0.0,Hydraulics
+red_bull,0.0,Wheel
+force_india,0.0,Engine
+renault,0.0,Spun off
+hrt,0.0,Hydraulics
+toro_rosso,0.0,Collision
+williams,0.0,Collision
+sauber,0.0,Collision
+lotus_racing,0.0,Hydraulics
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+mercedes,15.0,Finished
+renault,12.0,Finished
+force_india,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+mclaren,4.0,Finished
+toro_rosso,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+ferrari,0.0,Engine
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,+5 Laps
+lotus_racing,0.0,+10 Laps
+renault,0.0,Gearbox
+force_india,0.0,Throttle
+mercedes,0.0,Wheel
+sauber,0.0,Engine
+virgin,0.0,Spun off
+sauber,0.0,Engine
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+red_bull,4.0,Finished
+ferrari,2.0,Finished
+mercedes,1.0,Finished
+force_india,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,Finished
+lotus_racing,0.0,+1 Lap
+williams,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Hydraulics
+virgin,0.0,Clutch
+sauber,0.0,Technical
+toro_rosso,0.0,Accident
+sauber,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Engine
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+force_india,6.0,Finished
+renault,4.0,Finished
+williams,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+mclaren,0.0,Puncture
+force_india,0.0,Engine
+williams,0.0,+2 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+virgin,0.0,+4 Laps
+toro_rosso,0.0,Hydraulics
+hrt,0.0,Suspension
+sauber,0.0,Collision
+hrt,0.0,Accident
+lotus_racing,0.0,Gearbox
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+mclaren,10.0,Finished
+ferrari,8.0,Finished
+mercedes,6.0,Finished
+force_india,4.0,Finished
+force_india,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+renault,0.0,Brakes
+hrt,0.0,Collision
+lotus_racing,0.0,Collision
+lotus_racing,0.0,Steering
+hrt,0.0,Hydraulics
+williams,0.0,Suspension
+sauber,0.0,Gearbox
+virgin,0.0,Wheel
+virgin,0.0,Track rod
+sauber,0.0,Hydraulics
+mclaren,0.0,Engine
+williams,0.0,Front wing
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+red_bull,15.0,Finished
+mercedes,12.0,Finished
+mercedes,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+sauber,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,+1 Lap
+williams,0.0,+1 Lap
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+virgin,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,Fuel pump
+hrt,0.0,Fuel pressure
+red_bull,0.0,Collision
+lotus_racing,0.0,Hydraulics
+lotus_racing,0.0,Hydraulics
+mclaren,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+red_bull,10.0,Finished
+mercedes,8.0,Finished
+renault,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+renault,0.0,+2 Laps
+hrt,0.0,+4 Laps
+virgin,0.0,+5 Laps
+virgin,0.0,Mechanical
+lotus_racing,0.0,Brakes
+sauber,0.0,Engine
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+williams,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+sauber,6.0,Finished
+ferrari,4.0,Finished
+toro_rosso,2.0,Finished
+mercedes,1.0,Finished
+ferrari,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+mercedes,0.0,Finished
+force_india,0.0,Finished
+virgin,0.0,+1 Lap
+hrt,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,+4 Laps
+williams,0.0,Exhaust
+lotus_racing,0.0,Collision
+red_bull,0.0,Collision
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mercedes,15.0,Finished
+mclaren,12.0,Finished
+williams,10.0,Finished
+sauber,8.0,Finished
+red_bull,6.0,Finished
+force_india,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+renault,0.0,Finished
+ferrari,0.0,Finished
+ferrari,0.0,Finished
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+toro_rosso,0.0,Brakes
+sauber,0.0,Collision
+renault,0.0,Driveshaft
+virgin,0.0,Hydraulics
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,+1 Lap
+mercedes,4.0,+1 Lap
+mercedes,2.0,+1 Lap
+renault,1.0,+1 Lap
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+williams,0.0,+1 Lap
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+2 Laps
+force_india,0.0,+2 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+4 Laps
+lotus_racing,0.0,Collision
+virgin,0.0,Gearbox
+hrt,0.0,Engine
+lotus_racing,0.0,Gearbox
+toro_rosso,0.0,Collision
+red_bull,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+renault,10.0,Finished
+williams,8.0,Finished
+sauber,6.0,+1 Lap
+mclaren,4.0,+1 Lap
+sauber,2.0,+1 Lap
+williams,1.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+lotus_racing,0.0,+3 Laps
+lotus_racing,0.0,+3 Laps
+virgin,0.0,+3 Laps
+hrt,0.0,+3 Laps
+virgin,0.0,+4 Laps
+hrt,0.0,+4 Laps
+mclaren,0.0,Gearbox
+renault,0.0,Retired
+mercedes,0.0,Wheel
+force_india,0.0,Collision
+toro_rosso,0.0,Engine
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+force_india,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+sauber,4.0,Finished
+renault,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+red_bull,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+1 Lap
+virgin,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+ferrari,0.0,Accident
+mclaren,0.0,Collision
+hrt,0.0,Retired
+williams,0.0,Collision
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+williams,6.0,Finished
+renault,4.0,Finished
+mercedes,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+force_india,0.0,Finished
+renault,0.0,Finished
+sauber,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+hrt,0.0,+2 Laps
+virgin,0.0,+3 Laps
+lotus_racing,0.0,Engine
+hrt,0.0,Retired
+mclaren,0.0,Collision
+sauber,0.0,Gearbox
+ferrari,25.0,Finished
+red_bull,18.0,Finished
+red_bull,15.0,Finished
+mclaren,12.0,Finished
+mercedes,10.0,Finished
+williams,8.0,Finished
+renault,6.0,Finished
+ferrari,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+mercedes,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+virgin,0.0,+2 Laps
+lotus_racing,0.0,Engine
+virgin,0.0,Hydraulics
+sauber,0.0,Collision
+mclaren,0.0,Collision
+hrt,0.0,Hydraulics
+sauber,0.0,Accident
+hrt,0.0,Accident
+lotus_racing,0.0,Hydraulics
+force_india,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+sauber,6.0,Finished
+sauber,4.0,Finished
+williams,2.0,Finished
+toro_rosso,1.0,Finished
+toro_rosso,0.0,+1 Lap
+lotus_racing,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+3 Laps
+mercedes,0.0,Suspension
+force_india,0.0,Oil leak
+renault,0.0,Wheel
+williams,0.0,Accident
+ferrari,0.0,Accident
+renault,0.0,Accident
+force_india,0.0,Accident
+virgin,0.0,Suspension
+ferrari,25.0,Finished
+mclaren,18.0,Finished
+ferrari,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+force_india,8.0,Finished
+williams,6.0,Finished
+sauber,4.0,Finished
+sauber,2.0,Finished
+williams,1.0,Finished
+toro_rosso,0.0,Finished
+mclaren,0.0,Finished
+lotus_racing,0.0,+1 Lap
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+force_india,0.0,Collision
+red_bull,0.0,Engine
+renault,0.0,Accident
+virgin,0.0,Collision
+toro_rosso,0.0,Collision
+virgin,0.0,Accident
+lotus_racing,0.0,Hydraulics
+red_bull,0.0,Accident
+mercedes,0.0,Collision
+red_bull,25.0,Finished
+red_bull,18.0,Finished
+ferrari,15.0,Finished
+mclaren,12.0,Finished
+mclaren,10.0,Finished
+mercedes,8.0,Finished
+mercedes,6.0,Finished
+williams,4.0,+1 Lap
+renault,2.0,+1 Lap
+sauber,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+force_india,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+williams,0.0,+1 Lap
+ferrari,0.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+6 Laps
+virgin,0.0,+9 Laps
+force_india,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+mercedes,12.0,Finished
+renault,10.0,Finished
+renault,8.0,Finished
+ferrari,6.0,Finished
+red_bull,4.0,Finished
+toro_rosso,2.0,Finished
+ferrari,1.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,Finished
+lotus_racing,0.0,+1 Lap
+virgin,0.0,+2 Laps
+hrt,0.0,+2 Laps
+hrt,0.0,+2 Laps
+lotus_racing,0.0,Rear wing
+virgin,0.0,Gearbox
+mercedes,0.0,Collision
+force_india,0.0,Collision

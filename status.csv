@@ -1,0 +1,370 @@
+statusId,status
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+8,Clutch
+9,Hydraulics
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+14,+4 Laps
+15,+5 Laps
+16,+6 Laps
+19,+9 Laps
+20,Spun off
+22,Suspension
+23,Brakes
+25,Overheating
+26,Mechanical
+29,Puncture
+30,Driveshaft
+31,Retired
+32,Fuel pressure
+33,Front wing
+36,Wheel
+37,Throttle
+38,Steering
+39,Technical
+43,Exhaust
+44,Oil leak
+48,Fuel pump
+49,Track rod
+65,Rear wing
+88,+10 Laps
+1,Finished
+2,Disqualified
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+7,Transmission
+8,Clutch
+9,Hydraulics
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+14,+4 Laps
+15,+5 Laps
+19,+9 Laps
+22,Suspension
+23,Brakes
+26,Mechanical
+29,Puncture
+31,Retired
+36,Wheel
+42,Heat shield fire
+44,Oil leak
+47,Water leak
+61,Wheel nut
+65,Rear wing
+81,Did not qualify
+82,Injury
+88,+10 Laps
+111,+14 Laps
+128,+42 Laps
+129,Engine misfire
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+9,Hydraulics
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+15,+5 Laps
+20,Spun off
+22,Suspension
+23,Brakes
+26,Mechanical
+29,Puncture
+31,Retired
+32,Fuel pressure
+37,Throttle
+38,Steering
+40,Electronics
+43,Exhaust
+45,+11 Laps
+54,Withdrew
+61,Wheel nut
+65,Rear wing
+76,Vibrations
+81,Did not qualify
+91,Alternator
+130,Collision damage
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+7,Transmission
+9,Hydraulics
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+20,Spun off
+22,Suspension
+23,Brakes
+26,Mechanical
+27,Tyre
+29,Puncture
+31,Retired
+34,Water pressure
+36,Wheel
+44,Oil leak
+54,Withdrew
+61,Wheel nut
+63,Pneumatics
+69,Fuel system
+91,Alternator
+1,Finished
+2,Disqualified
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+8,Clutch
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+18,+8 Laps
+22,Suspension
+23,Brakes
+26,Mechanical
+31,Retired
+34,Water pressure
+39,Technical
+40,Electronics
+43,Exhaust
+44,Oil leak
+47,Water leak
+51,Oil pressure
+54,Withdrew
+65,Rear wing
+79,Drivetrain
+101,Turbo
+130,Collision damage
+131,Power Unit
+132,ERS
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+7,Transmission
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+14,+4 Laps
+16,+6 Laps
+20,Spun off
+22,Suspension
+23,Brakes
+27,Tyre
+31,Retired
+33,Front wing
+36,Wheel
+37,Throttle
+44,Oil leak
+54,Withdrew
+69,Fuel system
+75,Power loss
+96,Excluded
+101,Turbo
+130,Collision damage
+131,Power Unit
+132,ERS
+135,Brake duct
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+9,Hydraulics
+11,+1 Lap
+12,+2 Laps
+14,+4 Laps
+20,Spun off
+22,Suspension
+23,Brakes
+25,Overheating
+26,Mechanical
+27,Tyre
+29,Puncture
+31,Retired
+36,Wheel
+44,Oil leak
+54,Withdrew
+61,Wheel nut
+75,Power loss
+84,Battery
+130,Collision damage
+131,Power Unit
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+9,Hydraulics
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+22,Suspension
+23,Brakes
+30,Driveshaft
+32,Fuel pressure
+33,Front wing
+34,Water pressure
+36,Wheel
+44,Oil leak
+47,Water leak
+51,Oil pressure
+61,Wheel nut
+76,Vibrations
+84,Battery
+105,Spark plugs
+130,Collision damage
+131,Power Unit
+136,Seat
+1,Finished
+2,Disqualified
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+9,Hydraulics
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+22,Suspension
+23,Brakes
+25,Overheating
+26,Mechanical
+27,Tyre
+29,Puncture
+31,Retired
+32,Fuel pressure
+36,Wheel
+38,Steering
+43,Exhaust
+44,Oil leak
+75,Power loss
+84,Battery
+101,Turbo
+130,Collision damage
+131,Power Unit
+1,Finished
+2,Disqualified
+3,Accident
+4,Collision
+5,Engine
+7,Transmission
+9,Hydraulics
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+20,Spun off
+22,Suspension
+23,Brakes
+25,Overheating
+31,Retired
+34,Water pressure
+36,Wheel
+43,Exhaust
+44,Oil leak
+54,Withdrew
+60,Out of fuel
+75,Power loss
+130,Collision damage
+131,Power Unit
+137,Damage
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+7,Transmission
+11,+1 Lap
+12,+2 Laps
+15,+5 Laps
+21,Radiator
+22,Suspension
+23,Brakes
+25,Overheating
+29,Puncture
+31,Retired
+32,Fuel pressure
+34,Water pressure
+36,Wheel
+40,Electronics
+43,Exhaust
+54,Withdrew
+130,Collision damage
+131,Power Unit
+138,Debris
+139,Illness
+1,Finished
+2,Disqualified
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+9,Hydraulics
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+13,+3 Laps
+22,Suspension
+23,Brakes
+26,Mechanical
+29,Puncture
+30,Driveshaft
+31,Retired
+44,Oil leak
+61,Wheel nut
+65,Rear wing
+75,Power loss
+101,Turbo
+130,Collision damage
+131,Power Unit
+137,Damage
+139,Illness
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+6,Gearbox
+9,Hydraulics
+11,+1 Lap
+12,+2 Laps
+16,+6 Laps
+20,Spun off
+22,Suspension
+24,Differential
+26,Mechanical
+32,Fuel pressure
+33,Front wing
+34,Water pressure
+44,Oil leak
+47,Water leak
+48,Fuel pump
+54,Withdrew
+75,Power loss
+76,Vibrations
+95,Fuel leak
+101,Turbo
+103,Water pump
+130,Collision damage
+131,Power Unit
+140,Undertray
+141,Cooling system
