@@ -368,3 +368,12 @@ statusId,status
 131,Power Unit
 140,Undertray
 141,Cooling system
+1,Finished
+3,Accident
+4,Collision
+5,Engine
+10,Electrical
+11,+1 Lap
+12,+2 Laps
+23,Brakes
+26,Mechanical
